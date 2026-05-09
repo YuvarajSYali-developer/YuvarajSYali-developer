@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Yuvaraj+S+Yali;AI+Researcher+%7C+ML+Engineer+%7C+Full-Stack+Architect;Building+Intelligent+Systems+That+Actually+Matter" />
@@ -337,4 +337,4 @@ research_focus = [
 <img src="https://komarev.com/ghpvc/?username=YuvarajSYali-developer&style=for-the-badge&color=blueviolet"/>
 
 </div>
-```
+
